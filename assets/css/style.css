@@ -28,6 +28,11 @@ a {
   transition: all 0.5s ease-in-out;
 }
 
+img, .logo {
+  height: 50px;
+
+}
+
 a:hover {
   color: #0078ff;
   text-decoration: none;
@@ -477,7 +482,7 @@ a:hover {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -606,7 +611,7 @@ a:hover {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
